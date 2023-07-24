@@ -1,7 +1,7 @@
 {
  "name": "photostudio",
  "description": "Фотостудия №1 в Москве! Проводим самые яркие фотосессии!",
- "start_url": "/",
+ "start_url": ".",
  "lang": "ru",
  "display": "standalone",
  "icons": [
