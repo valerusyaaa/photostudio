@@ -1,0 +1,91 @@
+css
+body {
+    font-family: Bentham, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background: #BC8F8F;
+    color: #green;
+    padding: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 85px;
+    padding: 5px 5px;
+	font-family: Bentham;
+	color: #fff
+}
+	
+section {
+    padding: 40px;
+}
+
+.contact {
+    background: url('%D0%A1%D0%BB%D0%B0%D0%B9%D0%B45.JPG');
+    box-shadow: inset 250px 80px 50px 50px #ffffff;
+    
+}
+
+h2 {
+    font-family: garamond;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: garamond;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+li {
+    font-family: garamond;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 50px;
+	font-family: garamond;
+    margin-bottom: 20px;
+	padding: 30px;
+}
+
+form {
+    max-width: 400px; 
+    margin: 0 auto;
+}
+
+label,
+select,
+input,
+textarea,
+button {
+    font-family: garamond;
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #CD5C5C;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer; 
+}
+
+footer {
+    background-color: #BC8F8F;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
