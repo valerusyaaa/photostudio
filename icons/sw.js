@@ -3,7 +3,7 @@ var CURRENT_CACHES = {
     css:'text2.css',
     js:'script.js',
     site: 'index.html',
-    image: '123.jpg', '1234.jpg', '12345.jpg', 'Slaid7.jpg', 'Слайд1.JPG', 'Слайд2.JPG', 'Слайд3.JPG', 'Слайд4.jpg', 'Слайд5.JPG', 'vogue.jpg', 'bw.jpg', 'bw2.jpg', 'bw1.jpg', '7ae91bfd680713d80e39419ed13922f8.jpg', '63cb1e0e24547c1032bf34b814139e23.jpg', '3cb1e0e24547c1032bf34b814139e23.jpg',
+    image: 'images',
     script: 'sw-toolbox.js'
 };
 
